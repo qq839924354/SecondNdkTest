@@ -1,0 +1,2 @@
+include ':app', ':ndklibrary'
+include ':openCVLibrary310'
